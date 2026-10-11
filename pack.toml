@@ -1,0 +1,13 @@
+name = "Serge's World"
+author = "Serge's World"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d6b965c0f7da083402a6afd30685e0b67a43a7689bb5dfe294d54038678cbdc"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

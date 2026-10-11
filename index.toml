@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fiw-anticheat.pw.toml"
+hash = "a3ce53e301fd9b1355346f4eb43aa628f2971dae51c3600f32235a796d3620cd"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "b3663eb41c7a97e5b2a107cf824e493488e00e11bc21ef14b8742b9cc59e9cd4"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "f0f2fb9d1cf1359a61ec0e868a9c1091809825a0d2922c8744dd2d0e139ff13f"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "42265150218eb6dbc6d819c330e69c60968889423ff47cd8573933dc80b8895c"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "d6432f1eaed8380e5e13642695abd0ced91b79306c04544fd718d98a25130377"
